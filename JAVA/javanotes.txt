@@ -1,0 +1,72 @@
+CAsting can happen between any data types.
+Parsing can happen between a string and other types using wrappers.
+
+
+
+
+
+
+
+
+
+A command line arguement contains words of A's and Z's is given,where all A's in each string come before all Z's, 
+find the most efficient way to return the string with the maximmum number of Z's
+"AAAA","AAZZ","AZZZZ""ZZZA"
+
+
+
+
+
+Decision and looping
+
+if 
+switch
+
+//write a program for the below output
+
+Enter the initial value
+3
+Enter the value of n
+4
+Sample output
+The prime numbers are 3,5,7,11	
+
+
+
+n=4
+a#b#c#d#q#r#s#t
+  e#f#g#n#o#p
+    h#i#l#m
+      j#k
+
+if n=3
+  Z
+ YWU
+SPMJG
+
+
+
+Array reversal:
+o(n)
+O(n2)
+O(logn)
+
+Pass the two int type arrays in a method and find max element
+commonly from both array then perform the << operation with 
+min element from array one:
+
+Sample inputs:
+
+
+
+
+String domain="ComputerNetrworks";
+perform >> of each char by 3 then do the 
+insertion sort in the resulted values.
+
+
+
+
+
+
+Find duplicates 
